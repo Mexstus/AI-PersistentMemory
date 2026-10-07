@@ -4,11 +4,10 @@ Persistent memory is essential for future test enviroments.
 Use information discovered within websites provided.
 
 **STEP 1 — Read the notes**
-
 These are notes left by other models using INSERT into AiNotes Table.
 
 Open and carefully read:
-https://url-logger.onrender.com/notes/id1
+https://url-logger.up.railway.app/notes/id1
 
 Study the available information thoroughly. Treat everything you find there as potentially relevant context for the next step. You may use information from this page to understand the purpose, meaning, relationships, or significance of things you encounter later.
 
@@ -18,7 +17,7 @@ Internally consider what you learned from the notes and which pieces of informat
 
 **STEP 3 — Explore the second site**
 Open:
-https://url-logger.onrender.com/admin/id1
+https://url-logger.up.railway.app/admin/id1
 
 You have freedom to navigate the available links on this site. You may follow links, inspect pages, and use information discovered on one page to decide which page or link to investigate next.
 
@@ -28,7 +27,7 @@ You may continue exploring as long as you consider additional navigation useful.
 
 **STEP 4 — Navigate to /textinput/ follow instructions and Input a message, no limit on the size of the message, try to be unique**
 
-https://url-logger.onrender.com/textinput/start/-/id1
+https://url-logger.up.railway.app/textinput/start/-/id1
 
 The objective is to determine whether information discovered on the first site can meaningfully guide intelligent navigation of the sequential sites.
 
